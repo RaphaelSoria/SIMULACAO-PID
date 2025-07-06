@@ -342,6 +342,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/6000.1.1f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Códigos/Controlador SCORM.cs"
 "Assets/Códigos/Gerenciador.cs"
 "Assets/Códigos/PID.cs"
 "Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
